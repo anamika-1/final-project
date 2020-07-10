@@ -1,0 +1,39 @@
+#banner-image{
+	height:800px;
+	padding-top:75px;
+	padding-bottom:50px;
+	margin-bottom:20px;
+	text-align:center;
+	color:#0b1163;
+	background-size:cover;
+}
+
+#banner-content{
+	position:relative;
+	padding-top:70px;
+	padding-bottom:6%;
+	margin-top:12%;
+	margin-left:250px;
+	margin-right:250px;
+	margin-bottom:12%;
+	background-color:rgba(78, 82, 81, 0.7);
+	max-width:660px;
+}
+
+
+.footer{
+	bottom:0;
+	width:100%;
+    text-align:center;
+	background-color:rgb(40, 43, 43);
+	display:block;
+	color:#868282;
+	border-color:#757575;
+	min-height:50px;
+	border:1px solid transparent;
+}
+
+
+
+
+
